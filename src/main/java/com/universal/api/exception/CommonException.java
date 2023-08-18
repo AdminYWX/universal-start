@@ -1,0 +1,11 @@
+package com.universal.api.exception;
+
+/**
+ * @author laoge
+ */
+public class CommonException extends RuntimeException {
+    public CommonException(String message) {
+        super(message);
+    }
+
+}
