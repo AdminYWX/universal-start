@@ -8,9 +8,7 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * @author yangwenxing
- * @date 2023/5/30 09:54
- * @description
+ * @author laoge
  */
 @Inherited
 @Target({ElementType.TYPE})
